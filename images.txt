@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 ghcr.io/open-webui/open-webui:main
-nginx
+alpine
